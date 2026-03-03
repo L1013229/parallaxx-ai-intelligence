@@ -38,3 +38,9 @@
 **Safety-First Positioning Wins in Regulated Markets** — Anthropic lost the Pentagon contract but dominates where quality matters most. In NZ government infrastructure advisory, transparent, governance-aware AI design outcompetes pure capability positioning.
 
 ---
+
+## TEST-ENTRY
+
+Test discovery.
+
+---
