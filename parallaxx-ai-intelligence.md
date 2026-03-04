@@ -38,3 +38,15 @@
 **Safety-First Positioning Wins in Regulated Markets** — Anthropic lost the Pentagon contract but dominates where quality matters most. In NZ government infrastructure advisory, transparent, governance-aware AI design outcompetes pure capability positioning.
 
 ---
+
+## 2026-03-05
+
+**Stateful beats stateless at L3** — The OpenAI-AWS deal isn't just distribution; it's a persistent-memory runtime where agents retain incident history, prior decisions, and operator context across sessions. That's the exact capability gap between your L2 approval loop and a genuine L3 traffic management agent. Evaluate Frontier when it launches — the architecture is the blueprint.
+
+**Vendor designation is now a procurement risk category** — The Anthropic-Palantir partnership collapsed not from technical or commercial failure, but because one party held a government designation. NZ infrastructure clients are going to face this exact question, and most procurement frameworks don't have a field for it yet. Build vendor designation status into your AI procurement risk framework now, before a client discovers it mid-engagement.
+
+**WorkSafe and AI governance are the same argument** — When AI-assisted traffic management influences decisions affecting road workers, "who is accountable?" is a WorkSafe question and an AI governance question simultaneously. Documented human accountability at every decision layer isn't just good architecture — it's your compliance narrative. Frame it that way with clients and the room changes.
+
+**OpenAI is building infrastructure lock-in, not model superiority** — GitHub alternative, stateful AWS runtime, Frontier distribution: OpenAI is acquiring stack control points while Anthropic wins developer trust. For Parallaxx's vendor selections over the next 18 months, this tension matters — you're choosing between a platform play and a trust play, and those have different switching costs.
+
+---
