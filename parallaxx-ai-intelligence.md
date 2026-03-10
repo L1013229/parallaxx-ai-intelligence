@@ -50,3 +50,15 @@
 **OpenAI is building infrastructure lock-in, not model superiority** — GitHub alternative, stateful AWS runtime, Frontier distribution: OpenAI is acquiring stack control points while Anthropic wins developer trust. For Parallaxx's vendor selections over the next 18 months, this tension matters — you're choosing between a platform play and a trust play, and those have different switching costs.
 
 ---
+
+## 2026-03-11
+
+**AI-generated code has a 233-day liability curve** — The NYU/Alibaba maintenance study shows AI-generated code degrades in maintainability over a 7-month production horizon, and Amazon incident retrospectives are the live failure case. For Parallaxx, this means any L2 or L3 deployment into NZ government environments needs a lifecycle governance protocol designed before the agent is built — audit cadence, documentation standards, 3/6/12-month review gates. Clients won't ask for this upfront; showing up with it is the differentiator.
+
+**Domain routing is the production architecture, not model selection** — Benchmark fragmentation isn't market noise; it's the first hard evidence that specialists beat generalists in narrow domains, and that single-model deployment is performance debt. For Parallaxx's agent stack, the routing layer — which model handles compliance analysis versus code reasoning versus operational synthesis — is the actual intellectual property. Build the router, not just the agents.
+
+**NY RAISE Act is your NZ government procurement preview** — Safety-aligned AI legislation advancing in New York reliably predicts NZ government procurement language within 12 months, given shared Westminster policy diffusion patterns. Pre-mapping RAISE Act compliance requirements against your agent architecture documentation now means arriving at the client table with answers before they've formulated the questions — a concrete commercial advantage in a sector where procurement timelines are long and trust is slow.
+
+**DeepMind D4RT makes work zone near-miss classification tractable** — D4RT's 4D scene reconstruction from physical sensor data — recovering occluded geometry and temporal trajectories — is exactly the perception capability a TTM work zone safety AI needs to classify near-miss precursors before escalation. Track its open-source release and benchmark it against your incident classification problem; this could compress years of sensor-fusion R&D into an integration sprint.
+
+---
