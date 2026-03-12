@@ -62,3 +62,15 @@
 **DeepMind D4RT makes work zone near-miss classification tractable** — D4RT's 4D scene reconstruction from physical sensor data — recovering occluded geometry and temporal trajectories — is exactly the perception capability a TTM work zone safety AI needs to classify near-miss precursors before escalation. Track its open-source release and benchmark it against your incident classification problem; this could compress years of sensor-fusion R&D into an integration sprint.
 
 ---
+
+## 2026-03-13
+
+**Anthropic's PE joint venture confirms your model — then crowds your lane.** The Palantir-style embedded advisory approach Anthropic is now replicating is exactly what Parallaxx does natively in TTM. The validation is real. But PE-backed intermediaries will lock up Anthropic's premium consulting channel fast. Move on Anthropic partnership conversations before that structure closes.
+
+**Google is seeding government agent infrastructure while the room is empty.** The DoD unclassified agent contract lands the same week Anthropic is fighting a contractor designation in court. NZ government clients will face the same vendor architecture questions — and whichever lab occupies that infrastructure layer first shapes the governance frameworks that follow. Parallaxx needs a vendor positioning view on this now, not after a client asks.
+
+**Frontier models cannot build spatial maps — and your work zone agents depend on space.** Stanford's cognition paper shows GPT-5.2, Gemini-3 Pro, and Claude 4.5 Sonnet all fail at accurate spatial reasoning during active exploration. Humans outperform consistently. For incident reconstruction, near-miss detection, or any work zone safety agent workflow, this is a proven failure mode in the current generation. Design L1/L2 agent outputs with structured spatial priors baked in — don't rely on emergent reasoning to fill the gap.
+
+**TSMC's N3 constraint makes compute timing a strategic variable.** Rate limits and pricing on Opus-class models are more likely to tighten than ease in the next 12 months. Any long-horizon agent loops — classification pipelines, autoresearch workflows — run them this quarter. Deferral is a cost.
+
+---
