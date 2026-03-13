@@ -74,3 +74,9 @@
 **TSMC's N3 constraint makes compute timing a strategic variable.** Rate limits and pricing on Opus-class models are more likely to tighten than ease in the next 12 months. Any long-horizon agent loops — classification pipelines, autoresearch workflows — run them this quarter. Deferral is a cost.
 
 ---
+
+## 2026-03-14
+
+Nothing to extract today. The synthesis is unavailable and the fallback items (sports startup, Meta model delay, SaaS churn, Oracle pricing moves) contain no signal relevant to Parallaxx's agent stack, TTM positioning, or NZ AI governance work.
+
+---
