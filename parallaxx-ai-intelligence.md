@@ -80,3 +80,13 @@
 Nothing to extract today. The synthesis is unavailable and the fallback items (sports startup, Meta model delay, SaaS churn, Oracle pricing moves) contain no signal relevant to Parallaxx's agent stack, TTM positioning, or NZ AI governance work.
 
 ---
+
+## 2026-03-15
+
+**AutoHarness changes your L2/L3 safety architecture** — Auto-generated constraint harnesses make unsafe states structurally unreachable rather than relying on the model to self-police. For traffic and work zone advisory agents, this is the difference between "we told it not to" and "it cannot." Map this to your approval workflows before you build further.
+
+**The Claude-in-Iran story gives you a concrete client conversation** — What an AI vendor actually controls over model behavior in deployed contractor contexts is now a live liability question with a named example. NZ government clients will ask this question; having documented technical and contractual boundaries on what your agents can recommend versus act on is a billable differentiator, not a compliance footnote.
+
+**Agent memory beats long context as your core architecture bet** — One-million-token windows are near their physical ceiling for at least two years, making long-context a retention feature, not a growth unlock. The IBM trajectory-mining work — extracting reusable strategy from agent runs, lifting task completion four points and scenario goals fourteen — is the pattern worth prototyping against your work zone classification pipeline now, before the market converges on it.
+
+---
